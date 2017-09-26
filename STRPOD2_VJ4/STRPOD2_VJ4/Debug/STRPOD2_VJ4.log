@@ -1,0 +1,6 @@
+﻿  STRPOD2_VJ4.c
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj4\strpod2_vj4\strpod2_vj4.c(23): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj4\strpod2_vj4\strpod2_vj4.c(43): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  STRPOD2_VJ4.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ4\Debug\STRPOD2_VJ4.exe
+  STRPOD2_VJ4.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ4\Debug\STRPOD2_VJ4.pdb (Full PDB)
